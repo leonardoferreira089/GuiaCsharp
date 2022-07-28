@@ -1,0 +1,16 @@
+C:\Users\Usuário\source\repos\GuiaCsharp\GuiaCsharp\bin\Debug\net5.0\GuiaCsharp.exe
+C:\Users\Usuário\source\repos\GuiaCsharp\GuiaCsharp\bin\Debug\net5.0\GuiaCsharp.deps.json
+C:\Users\Usuário\source\repos\GuiaCsharp\GuiaCsharp\bin\Debug\net5.0\GuiaCsharp.runtimeconfig.json
+C:\Users\Usuário\source\repos\GuiaCsharp\GuiaCsharp\bin\Debug\net5.0\GuiaCsharp.runtimeconfig.dev.json
+C:\Users\Usuário\source\repos\GuiaCsharp\GuiaCsharp\bin\Debug\net5.0\GuiaCsharp.dll
+C:\Users\Usuário\source\repos\GuiaCsharp\GuiaCsharp\bin\Debug\net5.0\ref\GuiaCsharp.dll
+C:\Users\Usuário\source\repos\GuiaCsharp\GuiaCsharp\bin\Debug\net5.0\GuiaCsharp.pdb
+C:\Users\Usuário\source\repos\GuiaCsharp\GuiaCsharp\obj\Debug\net5.0\GuiaCsharp.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\GuiaCsharp\GuiaCsharp\obj\Debug\net5.0\GuiaCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\GuiaCsharp\GuiaCsharp\obj\Debug\net5.0\GuiaCsharp.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\GuiaCsharp\GuiaCsharp\obj\Debug\net5.0\GuiaCsharp.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\GuiaCsharp\GuiaCsharp\obj\Debug\net5.0\GuiaCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\GuiaCsharp\GuiaCsharp\obj\Debug\net5.0\GuiaCsharp.dll
+C:\Users\Usuário\source\repos\GuiaCsharp\GuiaCsharp\obj\Debug\net5.0\ref\GuiaCsharp.dll
+C:\Users\Usuário\source\repos\GuiaCsharp\GuiaCsharp\obj\Debug\net5.0\GuiaCsharp.pdb
+C:\Users\Usuário\source\repos\GuiaCsharp\GuiaCsharp\obj\Debug\net5.0\GuiaCsharp.genruntimeconfig.cache

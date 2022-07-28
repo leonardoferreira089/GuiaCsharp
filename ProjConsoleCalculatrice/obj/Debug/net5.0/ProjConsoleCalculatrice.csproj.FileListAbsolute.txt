@@ -1,0 +1,16 @@
+C:\Users\Usuário\source\repos\GuiaCsharp\ProjConsoleCalculatrice\bin\Debug\net5.0\ProjConsoleCalculatrice.exe
+C:\Users\Usuário\source\repos\GuiaCsharp\ProjConsoleCalculatrice\bin\Debug\net5.0\ProjConsoleCalculatrice.deps.json
+C:\Users\Usuário\source\repos\GuiaCsharp\ProjConsoleCalculatrice\bin\Debug\net5.0\ProjConsoleCalculatrice.runtimeconfig.json
+C:\Users\Usuário\source\repos\GuiaCsharp\ProjConsoleCalculatrice\bin\Debug\net5.0\ProjConsoleCalculatrice.runtimeconfig.dev.json
+C:\Users\Usuário\source\repos\GuiaCsharp\ProjConsoleCalculatrice\bin\Debug\net5.0\ProjConsoleCalculatrice.dll
+C:\Users\Usuário\source\repos\GuiaCsharp\ProjConsoleCalculatrice\bin\Debug\net5.0\ref\ProjConsoleCalculatrice.dll
+C:\Users\Usuário\source\repos\GuiaCsharp\ProjConsoleCalculatrice\bin\Debug\net5.0\ProjConsoleCalculatrice.pdb
+C:\Users\Usuário\source\repos\GuiaCsharp\ProjConsoleCalculatrice\obj\Debug\net5.0\ProjConsoleCalculatrice.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\GuiaCsharp\ProjConsoleCalculatrice\obj\Debug\net5.0\ProjConsoleCalculatrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\GuiaCsharp\ProjConsoleCalculatrice\obj\Debug\net5.0\ProjConsoleCalculatrice.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\GuiaCsharp\ProjConsoleCalculatrice\obj\Debug\net5.0\ProjConsoleCalculatrice.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\GuiaCsharp\ProjConsoleCalculatrice\obj\Debug\net5.0\ProjConsoleCalculatrice.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\GuiaCsharp\ProjConsoleCalculatrice\obj\Debug\net5.0\ProjConsoleCalculatrice.dll
+C:\Users\Usuário\source\repos\GuiaCsharp\ProjConsoleCalculatrice\obj\Debug\net5.0\ref\ProjConsoleCalculatrice.dll
+C:\Users\Usuário\source\repos\GuiaCsharp\ProjConsoleCalculatrice\obj\Debug\net5.0\ProjConsoleCalculatrice.pdb
+C:\Users\Usuário\source\repos\GuiaCsharp\ProjConsoleCalculatrice\obj\Debug\net5.0\ProjConsoleCalculatrice.genruntimeconfig.cache
