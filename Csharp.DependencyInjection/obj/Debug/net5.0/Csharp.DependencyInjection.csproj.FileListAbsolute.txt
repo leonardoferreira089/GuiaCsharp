@@ -1,0 +1,16 @@
+C:\Users\Usuário\source\repos\GuiaCsharp\Csharp.DependencyInjection\bin\Debug\net5.0\Csharp.DependencyInjection.exe
+C:\Users\Usuário\source\repos\GuiaCsharp\Csharp.DependencyInjection\bin\Debug\net5.0\Csharp.DependencyInjection.deps.json
+C:\Users\Usuário\source\repos\GuiaCsharp\Csharp.DependencyInjection\bin\Debug\net5.0\Csharp.DependencyInjection.runtimeconfig.json
+C:\Users\Usuário\source\repos\GuiaCsharp\Csharp.DependencyInjection\bin\Debug\net5.0\Csharp.DependencyInjection.runtimeconfig.dev.json
+C:\Users\Usuário\source\repos\GuiaCsharp\Csharp.DependencyInjection\bin\Debug\net5.0\Csharp.DependencyInjection.dll
+C:\Users\Usuário\source\repos\GuiaCsharp\Csharp.DependencyInjection\bin\Debug\net5.0\ref\Csharp.DependencyInjection.dll
+C:\Users\Usuário\source\repos\GuiaCsharp\Csharp.DependencyInjection\bin\Debug\net5.0\Csharp.DependencyInjection.pdb
+C:\Users\Usuário\source\repos\GuiaCsharp\Csharp.DependencyInjection\obj\Debug\net5.0\Csharp.DependencyInjection.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\GuiaCsharp\Csharp.DependencyInjection\obj\Debug\net5.0\Csharp.DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\GuiaCsharp\Csharp.DependencyInjection\obj\Debug\net5.0\Csharp.DependencyInjection.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\GuiaCsharp\Csharp.DependencyInjection\obj\Debug\net5.0\Csharp.DependencyInjection.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\GuiaCsharp\Csharp.DependencyInjection\obj\Debug\net5.0\Csharp.DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\GuiaCsharp\Csharp.DependencyInjection\obj\Debug\net5.0\Csharp.DependencyInjection.dll
+C:\Users\Usuário\source\repos\GuiaCsharp\Csharp.DependencyInjection\obj\Debug\net5.0\ref\Csharp.DependencyInjection.dll
+C:\Users\Usuário\source\repos\GuiaCsharp\Csharp.DependencyInjection\obj\Debug\net5.0\Csharp.DependencyInjection.pdb
+C:\Users\Usuário\source\repos\GuiaCsharp\Csharp.DependencyInjection\obj\Debug\net5.0\Csharp.DependencyInjection.genruntimeconfig.cache

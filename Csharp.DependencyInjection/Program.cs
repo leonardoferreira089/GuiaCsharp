@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Csharp.DependencyInjection
 {
@@ -6,12 +7,13 @@ namespace Csharp.DependencyInjection
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-
-            //Classe Employee(Id -name - department)
-            //Classe EmployeeDAL(com um metodo SelectAllEmployees)
-
-            //classe EmployeeBL(metodo GetAllEmployees)
+            EmployeeBL employeeBL = new EmployeeBL(new EmployeeDAL());
+            List<Employee> ListEmployee = employeeBL.GetAllEmployees();
+            foreach (Employee emp in ListEmployee)
+            {
+                Console.WriteLine("ID = {0}, Name = {1}, Department = {2}", emp.Id, emp.Name, emp.Department);
+            }
+            Console.ReadKey();
         }
     }
 }

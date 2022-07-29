@@ -8,13 +8,16 @@ namespace Csharp.DependencyInjection
 {
     public class EmployeeBL
     {
-        public EmployeeDAL employeeDAL;
-
-        public List<Employee> GetAllEmployees()
+        public IEmployeeDAL _employeeDAL;
+        public EmployeeBL(IEmployeeDAL employeeDAL)
         {
-            employeeDAL = new EmployeeDAL();
+            _employeeDAL = employeeDAL;
+        }
 
-            return employeeDAL.SelectAllEmployees();
+        public List<Employee> GetAllEmployees()         
+        {            
+
+            return _employeeDAL.SelectAllEmployees();    
         }
     }
 }
