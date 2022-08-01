@@ -1,0 +1,16 @@
+C:\Users\Usuário\source\repos\GuiaCsharp\EditeurDeTextes\bin\Debug\net5.0\EditeurDeTextes.exe
+C:\Users\Usuário\source\repos\GuiaCsharp\EditeurDeTextes\bin\Debug\net5.0\EditeurDeTextes.deps.json
+C:\Users\Usuário\source\repos\GuiaCsharp\EditeurDeTextes\bin\Debug\net5.0\EditeurDeTextes.runtimeconfig.json
+C:\Users\Usuário\source\repos\GuiaCsharp\EditeurDeTextes\bin\Debug\net5.0\EditeurDeTextes.runtimeconfig.dev.json
+C:\Users\Usuário\source\repos\GuiaCsharp\EditeurDeTextes\bin\Debug\net5.0\EditeurDeTextes.dll
+C:\Users\Usuário\source\repos\GuiaCsharp\EditeurDeTextes\bin\Debug\net5.0\ref\EditeurDeTextes.dll
+C:\Users\Usuário\source\repos\GuiaCsharp\EditeurDeTextes\bin\Debug\net5.0\EditeurDeTextes.pdb
+C:\Users\Usuário\source\repos\GuiaCsharp\EditeurDeTextes\obj\Debug\net5.0\EditeurDeTextes.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\GuiaCsharp\EditeurDeTextes\obj\Debug\net5.0\EditeurDeTextes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\GuiaCsharp\EditeurDeTextes\obj\Debug\net5.0\EditeurDeTextes.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\GuiaCsharp\EditeurDeTextes\obj\Debug\net5.0\EditeurDeTextes.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\GuiaCsharp\EditeurDeTextes\obj\Debug\net5.0\EditeurDeTextes.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\GuiaCsharp\EditeurDeTextes\obj\Debug\net5.0\EditeurDeTextes.dll
+C:\Users\Usuário\source\repos\GuiaCsharp\EditeurDeTextes\obj\Debug\net5.0\ref\EditeurDeTextes.dll
+C:\Users\Usuário\source\repos\GuiaCsharp\EditeurDeTextes\obj\Debug\net5.0\EditeurDeTextes.pdb
+C:\Users\Usuário\source\repos\GuiaCsharp\EditeurDeTextes\obj\Debug\net5.0\EditeurDeTextes.genruntimeconfig.cache
