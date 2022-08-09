@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjConsoleCalculatrice", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Csharp.DependencyInjection", "Csharp.DependencyInjection\Csharp.DependencyInjection.csproj", "{4801C55C-1398-435B-A5C8-395AC582863A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditeurDeTextes", "EditeurDeTextes\EditeurDeTextes.csproj", "{7332D62F-1196-43EF-92F1-2476B44D12F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EditeurDeTextes", "EditeurDeTextes\EditeurDeTextes.csproj", "{7332D62F-1196-43EF-92F1-2476B44D12F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjConsoleChronometre", "ProjConsoleChronometre\ProjConsoleChronometre.csproj", "{063084D5-0EBF-4301-A971-E24ADA4ADB41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{7332D62F-1196-43EF-92F1-2476B44D12F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7332D62F-1196-43EF-92F1-2476B44D12F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7332D62F-1196-43EF-92F1-2476B44D12F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{063084D5-0EBF-4301-A971-E24ADA4ADB41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{063084D5-0EBF-4301-A971-E24ADA4ADB41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{063084D5-0EBF-4301-A971-E24ADA4ADB41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{063084D5-0EBF-4301-A971-E24ADA4ADB41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

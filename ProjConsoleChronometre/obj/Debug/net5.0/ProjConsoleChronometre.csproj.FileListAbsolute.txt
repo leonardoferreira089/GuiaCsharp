@@ -1,0 +1,16 @@
+C:\Users\Usuário\source\repos\GuiaCsharp\ProjConsoleChronometre\obj\Debug\net5.0\ProjConsoleChronometre.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\GuiaCsharp\ProjConsoleChronometre\obj\Debug\net5.0\ProjConsoleChronometre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\GuiaCsharp\ProjConsoleChronometre\obj\Debug\net5.0\ProjConsoleChronometre.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\GuiaCsharp\ProjConsoleChronometre\obj\Debug\net5.0\ProjConsoleChronometre.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\GuiaCsharp\ProjConsoleChronometre\obj\Debug\net5.0\ProjConsoleChronometre.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\GuiaCsharp\ProjConsoleChronometre\bin\Debug\net5.0\ProjConsoleChronometre.exe
+C:\Users\Usuário\source\repos\GuiaCsharp\ProjConsoleChronometre\bin\Debug\net5.0\ProjConsoleChronometre.deps.json
+C:\Users\Usuário\source\repos\GuiaCsharp\ProjConsoleChronometre\bin\Debug\net5.0\ProjConsoleChronometre.runtimeconfig.json
+C:\Users\Usuário\source\repos\GuiaCsharp\ProjConsoleChronometre\bin\Debug\net5.0\ProjConsoleChronometre.runtimeconfig.dev.json
+C:\Users\Usuário\source\repos\GuiaCsharp\ProjConsoleChronometre\bin\Debug\net5.0\ProjConsoleChronometre.dll
+C:\Users\Usuário\source\repos\GuiaCsharp\ProjConsoleChronometre\bin\Debug\net5.0\ref\ProjConsoleChronometre.dll
+C:\Users\Usuário\source\repos\GuiaCsharp\ProjConsoleChronometre\bin\Debug\net5.0\ProjConsoleChronometre.pdb
+C:\Users\Usuário\source\repos\GuiaCsharp\ProjConsoleChronometre\obj\Debug\net5.0\ProjConsoleChronometre.dll
+C:\Users\Usuário\source\repos\GuiaCsharp\ProjConsoleChronometre\obj\Debug\net5.0\ref\ProjConsoleChronometre.dll
+C:\Users\Usuário\source\repos\GuiaCsharp\ProjConsoleChronometre\obj\Debug\net5.0\ProjConsoleChronometre.pdb
+C:\Users\Usuário\source\repos\GuiaCsharp\ProjConsoleChronometre\obj\Debug\net5.0\ProjConsoleChronometre.genruntimeconfig.cache
